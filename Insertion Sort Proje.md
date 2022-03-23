@@ -39,7 +39,6 @@ Best Case: Aradığımız sayının dizinin en başında olması --> O(n) <br>
 
 ### D) Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
-
 1. Adımda sıralaması değişeceği için average case’dir.
  
  --------------------------------------
